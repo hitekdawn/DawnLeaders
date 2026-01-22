@@ -140,10 +140,9 @@ function DawnLeaders_ToggleWindow()
     end
 end
 
-SLASH_DAWNLEADERS1 = "/dawn attendance"
-SLASH_DAWNLEADERS2 = "/dawnatd"
-SLASH_DAWNLEADERS3 = "/gws"
-SLASH_DAWNLEADERS4 = "/atd"
+SLASH_DAWNLEADERS1 = "/dawnatd"
+SLASH_DAWNLEADERS2 = "/gws"
+SLASH_DAWNLEADERS3 = "/atd"
 
 SlashCmdList["DAWNLEADERS"] = function()
     ShowWindow()

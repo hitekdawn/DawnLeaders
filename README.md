@@ -13,7 +13,6 @@ A World of Warcraft addon for the Dawn community's squad leaders
 
 ### Slash Commands
 
-- `/dawn attendance`
 - `/dawnatd`
 - `/gws`
 - `/atd`
