@@ -1,0 +1,5 @@
+<Bindings>
+    <Binding name="DAWNLEADERS_TOGGLE" header="BINDING_HEADER_DAWNLEADERS" category="BINDING_HEADER_DAWNLEADERS">
+        DawnLeaders_ToggleWindow()
+    </Binding>
+</Bindings>

@@ -1,0 +1,10 @@
+## Interface: 120000
+## Title: |cFFFF5050Dawn|rLeaders
+## Notes: Dawn Community - https://discord.gg/dawneu
+## Author: Pam & Hitek
+## Version: src
+## IconTexture: Interface\AddOns\DawnLeaders\media\dawnLogo
+## Category: Dawn
+
+libs\StdUi\StdUi.xml
+DawnLeaders.lua
