@@ -6,5 +6,6 @@
 ## IconTexture: Interface\AddOns\DawnLeaders\media\dawnLogo
 ## Category: Dawn
 
+libs\LibStub\LibStub.lua
 libs\StdUi\StdUi.xml
 DawnLeaders.lua
