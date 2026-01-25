@@ -1,0 +1,3 @@
+# WoW addon packaging artifacts
+.release/
+*.zip
