@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120100
 ## Title: |cFFFF5050Dawn|rLeaders
 ## Notes: Dawn Community - https://discord.gg/dawneu
 ## Author: Pam & Hitek
